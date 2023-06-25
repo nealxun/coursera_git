@@ -5,3 +5,5 @@
 01_Archive/
 .DS_Store
 Icons/.DS_Store
+.DS_Store
+.gitignore
