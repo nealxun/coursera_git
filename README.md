@@ -10,6 +10,7 @@
 + In the terminal, use `git config --list` to see the configuration.
 + In the terminal, use `git init` to initialize a project.
 + In the terminal, staging files: `git add FILENAME`, make a commit: `git commit -m “commit message”`. Use `git add .` to add all the files.
+  - To amend the previous commit message, use `git commit --amend -m "an updated commit message"`.
 + To create a remote.
   - First create a repo in GitHub.
   - Pushing to GitHub.
