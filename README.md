@@ -15,4 +15,15 @@
   - First create a repo in GitHub.
   - Pushing to GitHub.
     + Add a remote, `git remote add origin YOUR URL`. (make sure to select the https one).
-    + Git push, `git push -u origin main` (first time push), `git push --all` (push all the branches).
+    + Git push, `git push -u origin main` (first time push), `git push --all` (push all the branches), `git push origin master` (push your master branch to your origin server).
++ To work with remote.
+  - Show the remote, `git remote -v`.
+  - Get data from your remote, `git fetch <remote name, i.e origin>`. This will only download the data.
+  - Sync from your remote, `git pull <remote name>`. This will fetch and then merge that remote branch into your current branch.
+  - See more information about a remote, `git remote show <remote>`.
++ To contribute to an existing project.
+  - First fork the project, it will take to your own project page.
+  - Clone a git repo, `git clone <url>`. Then change the work directory accordingly.
+  - Check out a new branch, `git checkout -b <new branch name>`.
+  - Push to remote, `git push origin <new branch name>`.
+  - Open the pull request on github.
