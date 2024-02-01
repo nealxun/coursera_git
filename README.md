@@ -27,3 +27,4 @@
   - Check out a new branch, `git checkout -b <new branch name>`.
   - Push to remote, `git push origin <new branch name>`.
   - Open the pull request on github.
++ To show commit history, `git log --pretty=oneline`.
