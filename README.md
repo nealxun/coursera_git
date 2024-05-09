@@ -1,8 +1,13 @@
 ### A list of studied Coursera/other open source courses
-- 2023-01-01 Python cursh course - complete.
-- 2023-02-01 Speaking and presenting poise - complete.
-- 2023-04-01 Using python to interact with the operating system - complete.
-- 2023-05-01 ChatGPT promoting engineering - complete.
+- 2023-01-01 Python cursh course.
+- 2023-02-01 Speaking and presenting poise.
+- 2023-04-01 Using python to interact with the operating system.
+- 2023-05-01 ChatGPT promoting engineering.
+- 2023-07-01 Speaking and Presenting Conversation_Starters.
+- 2023-11-01 Generative AI for Everyone.
+- 2023-12-01 AI for public health.
+- 2023-12-01 Speaking and preseting pitches and persuasion.
+
 
 ### Basic git operations
 + In Visual studio code, click explore, then open a folder, this will be the work directory and you can initiate a git project.
