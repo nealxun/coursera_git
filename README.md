@@ -7,6 +7,8 @@
 - 2023-11-01 Generative AI for Everyone.
 - 2023-12-01 AI for public health.
 - 2023-12-01 Speaking and preseting pitches and persuasion.
+- 2024-03-01 Sequence time series and prediction.
+- 2024-04-01 Speaking and presenting: tact.
 
 
 ### Basic git operations
