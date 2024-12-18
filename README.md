@@ -7,8 +7,6 @@
 - 2023-11-01 Generative AI for Everyone.
 - 2023-12-01 AI for public health.
 - 2023-12-01 Speaking and preseting pitches and persuasion.
-- 2024-03-01 Sequence time series and prediction.
-- 2024-04-01 Speaking and presenting: tact.
 
 
 ### Basic git operations
@@ -35,3 +33,5 @@
   - Push to remote, `git push origin <new branch name>`.
   - Open the pull request on github.
 + To show commit history, `git log --pretty=oneline`.
++ To delete the most recent commit, `git reset --hard HEAD~1`.
++ To undo a reset, `git reset --hard <sha1 of desired commit>`. Use git reflog to get the sha1.
