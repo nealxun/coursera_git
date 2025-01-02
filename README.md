@@ -1,4 +1,4 @@
-### A list of studied Coursera/other open source courses
+### A list of completed open source courses
 - 2023-01-01 Python cursh course.
 - 2023-02-01 Speaking and presenting poise.
 - 2023-04-01 Using python to interact with the operating system.
@@ -7,6 +7,11 @@
 - 2023-11-01 Generative AI for Everyone.
 - 2023-12-01 AI for public health.
 - 2023-12-01 Speaking and preseting pitches and persuasion.
+- 2024-03-01 Sequence timeseries and prediction.
+- 2024-04-01 Speaking and presenting tact.
+- 2024-05-01 Forecasting skills: see the future before it happens.
+- 2024-06-01 Prompting engineering for ChatGPT.
+- 2024-08-01 AI python for beginners.
 
 
 ### Basic git operations
@@ -34,4 +39,7 @@
   - Open the pull request on github.
 + To show commit history, `git log --pretty=oneline`.
 + To delete the most recent commit, `git reset --hard HEAD~1`.
-+ To undo a reset, `git reset --hard <sha1 of desired commit>`. Use git reflog to get the sha1.
++ To undo a reset, `git reset --hard <sha1 of desired commit>`. Use `git reflog` to get the sha1.
+
+### Basic python operations
++ Bulk commenting, use `cmd+/`.

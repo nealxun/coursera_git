@@ -5,5 +5,5 @@
 01_archive/
 .DS_Store
 Icons/.DS_Store
-.DS_Store
 .gitignore
+.env
