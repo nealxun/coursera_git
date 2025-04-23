@@ -12,6 +12,7 @@
 - 2024-05-01 Forecasting skills: see the future before it happens.
 - 2024-06-01 Prompting engineering for ChatGPT.
 - 2024-08-01 AI python for beginners.
+- 2024-12-01 ChatGPT prompt engineering for developers.
 
 
 ### Basic git operations
